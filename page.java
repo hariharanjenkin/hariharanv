@@ -1,4 +1,4 @@
-public class MyFirstJavaProgram {
+public class page {
 
 
    public static void main(String []args) {
